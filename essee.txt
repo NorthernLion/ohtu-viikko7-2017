@@ -1,0 +1,9 @@
+Backlogin sijaan on usein havainnollisempaa koodaajalle, stakeholderille ja k‰ytt‰j‰lle, ett‰ k‰ytet‰‰n karttaa.
+Priorisoidut listat ovat hyvi‰ aivottomaan koodaukseen, mutta pelk‰n listan n‰keminen h‰m‰rt‰‰ koko systeemin
+ymm‰rt‰mist‰. Kun tehd‰‰n kartta eli ns. selk‰ranka voidaan eri aihepiireihin kuuluvat storyt liitt‰‰ tietyn 
+nikaman alle. N‰in ollen voidaan kommunikoida helpommin ja nopeammin ketteriin menetelmiin tottumattoman henkilˆn
+kanssa. T‰llˆin kommunikaatio ongelmat v‰henev‰t ja voidaan keskitty‰ enemm‰n t‰rkeisiin asioihin, eiv‰tk‰ toisaalta
+pienet toiminnot j‰‰ huomaamatta.
+Karttaa ei kuitenkaan priorisoida. Priorisointi tehd‰‰n normaaliin tapaan User storeille, mutta kartta auttaa user
+storien priorisoinnin hahmottamista. 
+
